@@ -34,7 +34,7 @@ The script assumes you are running a cold wallet on your local PC and this scrip
 
 You are now ready to configure your local wallet and finish the masternode setup:
 
- 1. Make sure you have downloaded the latest wallet from https://github.com/beaconcoin/beaconcoin/releases
+ 1. Make sure you have downloaded the latest wallet from https://github.com/beaconcrypto/beacon/releases
  2. Install the wallet on your local PC
  3. Start the wallet and let it completely synchronize to the network - this will take some time
  4. Create a new `Receiving Address` from the wallets `File` menu and name it appropriately, e.g. MN-1
