@@ -9,7 +9,8 @@ The installation script will do everything needed to setup your VPS with the lat
 
 When you run the script it will tell you what it will do on your system. Once completed there is a summary of the information you need to be aware of regarding your node setup which you can copy/paste to your local PC. 
 ```
-Make sure you keep the script output information safe for later and never show or tell anyone what your private key is or they can steal your coins.
+Make sure you keep the script output information safe for later.
+Never show or tell anyone what your private key is or they can steal your coins.
 ```
 
 You will need to run the script before setting up your node in your local wallet as it will generate a `private key` for you to use in your `masternode.conf` file.
