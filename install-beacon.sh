@@ -8,7 +8,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 
-DAEMON_ARCHIVE=${1:-"https://github.com/beaconcrypto/beacon/releases/download/v1.1/becn11-daemon.zip"}
+DAEMON_ARCHIVE=${1:-"https://github.com/beaconcrypto/beacon/releases/download/v1.0.0.0/becn1.0-daemon.zip"}
 ARCHIVE_STRIP=""
 DEFAULT_PORT=11115
 
